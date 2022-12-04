@@ -9,7 +9,11 @@ function Header() {
         </Link>
         <ul id="nav-mobile" className="right hide-on-med-and-down">
           <li>
-            <a href="!#" target="_blank" rel="noreferrer">
+            <a
+              href="https://github.com/Azamatik98/FoodRecipeApp"
+              target="_blank"
+              rel="noreferrer"
+            >
               Repo
             </a>
           </li>
